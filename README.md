@@ -5,3 +5,5 @@
 Para ejecutar el sistema, debesponer:
 
 ```rmp install react```
+
+Sistea de registro 2
